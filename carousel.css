@@ -59,6 +59,9 @@ body {
     min-width: 100%;
     height: 500px;
   }
+  img .first-slide{
+    background: cover fixed;j
+  }
   
   
   /* MARKETING CONTENT
